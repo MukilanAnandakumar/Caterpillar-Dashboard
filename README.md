@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # 🚜 Caterpillar Mining Machine Dashboard
 
 ## 📌 Project Overview
