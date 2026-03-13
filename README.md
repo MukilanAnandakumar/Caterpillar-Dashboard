@@ -102,4 +102,3 @@ Such monitoring systems can help improve operational awareness, simplify machine
 ## ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
->>>>>>> bfe80c7e28c84f8fdf1a7049a835abdf751ee73a
