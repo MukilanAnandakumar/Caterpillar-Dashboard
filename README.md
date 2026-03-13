@@ -6,7 +6,6 @@ The Caterpillar Mining Machine Dashboard is an interactive web-based monitoring 
 
 This project aims to improve machine monitoring efficiency and provide a centralized platform for viewing critical machine data.
 
----
 
 ## ✨ Features
 
@@ -16,7 +15,6 @@ This project aims to improve machine monitoring efficiency and provide a central
 * 🖥️ User-friendly interface for operators
 * 📂 Structured and modular codebase
 
----
 
 ## 🛠️ Technologies Used
 
@@ -27,7 +25,6 @@ This project aims to improve machine monitoring efficiency and provide a central
 * **HTML5**
 * **JavaScript**
 
----
 
 ## 📁 Project Structure
 
